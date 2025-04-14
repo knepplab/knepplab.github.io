@@ -1,4 +1,3 @@
-## Publications
 - **Knepp, Z. J.**; Repa, G. M.; Fredin, L. A. Excited-State Methods for Molecular Systems: Performance, Pitfalls, and Practical Guidance. Accepted at _Chem. Phys. Rev._ **2025**.
 - Chen, A. H.; **Knepp, Z. J.**; Guzman, C. A.; Young, E. R.; Fredin, L. A. Intramolecular Subtleties in Indole Azo Dyes Revealed by Multidimensional Potential Energy Surfaces. _Phys. Chem. Chem. Phys._ **2025**,27, 6430-6437
 - Yan, M.; Bowman, Z.; **Knepp, Z. J.**; Peterson, A.; Fredin, L. A.; Morris, A. J. Reaction Type Dependent Behavior of Redox-Hopping in MOFs–Does Charge Transport Have a Preferred Direction? _J. Phys. Chem. Lett._ **2024**, 15, 11919–11926.
