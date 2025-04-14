@@ -25,7 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:knepp@alfred.edu"}
-  #- {title: Github, icon: github, url: "https://github.com/knepplab"}
+  - {title: Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?hl=en&user=IsbMUDsAAAAJ"}
+  - {title: Github, icon: github, url: "https://github.com/knepplab"}
   #- {title: Bluesky, icon: bluesky, style: "color: #ffffff", url: "https://web-cdn.bsky.app/profile/zachary-j-knepp.bsky.social"}
 
 comments:
