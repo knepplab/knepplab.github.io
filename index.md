@@ -4,5 +4,4 @@ layout: page
 ---
 The Knepp Lab investigates problems at the intersection of photochemistry, physical organic chemistry, and electronic structure theory.
 
-![Picture](logo.png){ width="100" height="100" style="display: block; margin: 0 auto" }
-
+<img src="logo.png" width=200 height=200>
