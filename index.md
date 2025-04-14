@@ -2,7 +2,7 @@
 title: "Theoretical and Computational Chemistry at Alfred University"
 layout: page
 ---
-The Knepp Lab investigates problems at the intersection of photochemistry, physical organic chemistry, and electronic structure theory.
+The Knepp Lab investigates problems at the intersection of photochemistry, physical organic chemistry, and electronic structure theory. We are particularly interested in leveraging computational chemistry to rationally design molecular photoswitches for applications in photopharmaceuticals and molecular solar thermal fuels.
 
 <img src="logo.png" 
         alt="Picture" 
