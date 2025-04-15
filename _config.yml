@@ -1,4 +1,4 @@
-title: "Knepp Lab"
+{title: "Knepp Lab", font-weight: "bold"}
 author: "Zachary J. Knepp"
 description: "Alfred University"
 permalink: /:title/
