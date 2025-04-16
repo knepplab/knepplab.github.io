@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "courses.md", title: "Courses"}
   - {file: "research.md", title: "Research"}
   - {file: "publications.md", title: "Publications"}
-  - {file: "group.md", title: "People"}
+  - {file: "group.md", title: "Group"}
   - {file: "hpc.md", title: "HPC"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
