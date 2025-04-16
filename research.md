@@ -3,8 +3,10 @@ title: "Research"
 layout: page
 ---
 
-## Rational Design and Exploration of Imine-based Photoswitches
+# Photoswitches
 
-## Triplet State Influence on Photoisomerization and Thermal Reversion
+#### Rational Design and Exploration of Imine-based Photoswitches
 
-## Computer-aided Photoswitchable Drug Design
+#### Triplet State Influence on Photoisomerization and Thermal Reversion
+
+#### Computer-aided Photoswitchable Drug Design
