@@ -9,7 +9,6 @@ Custom System76 workstation with a 64-core (128-thread) AMD Ryzen Threadripper 7
 
 #### Mac Mini
 Base M4 Mac mini with a 10-core CPU, 10-core GPU, 16 GB unified memory, 256 GB SSD, and a 16-core Neural Engine.
-#### 
 
 ## Software
 
