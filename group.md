@@ -7,7 +7,7 @@ layout: page
 ## Principle Investigator
 ---
 
-<img src="https://knepplab.com/Zach_and_Marci.png" alt="">
+<img src="https://knepplab.com/Zach_and_Marci.jpeg" alt="" width="200">
 
 
 ### Zachary J. Knepp, Ph.D.
