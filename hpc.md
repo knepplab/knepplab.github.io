@@ -12,11 +12,14 @@ Custom System76 workstation with a 64-core (128-thread) AMD Ryzen Threadripper 7
 ---
 ## Software
 ---
-### WebMO (coming soon)
+### WebMO
 WebMO provides a user-friendly web interface for running advanced computational chemistry software, making powerful tools accessible to students and non-specialists directly through their browser. Please see Prof. Knepp for login instructions.
 
-### Gaussian 16 (coming soon)
+### Gaussian 16
 Gaussian 16 is the most recent version in the Gaussian program series and offers advanced capabilities for electronic structure modeling.
 
 ### ORCA
 ORCA is a versatile and widely used quantum chemistry software package developed by the group of Prof. Frank Neese. It is freely available for academic use.
+
+### LAMMPS
+LAMMPS is a free classical molecular dynamics code for modeling molecules and materials.
