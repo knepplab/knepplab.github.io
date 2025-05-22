@@ -7,7 +7,7 @@ layout: page
 - Minium, K.; **Knepp, Z. J.**; Sutton, M.; Falls, T.; Bobb, S. C.; McKeefery, C.; Smith, K.;
 Root, K. T. Characterization of a Highly Stable Solvent-Tolerant SGNH Superfamily Lipase
 from Sphaerobacter thermophilus. _Biochemistry_ **2025**.
-- **Knepp, Z. J.**; Repa, G. M.; Fredin, L. A. Excited-state methods for molecular systems: Performance, pitfalls, and practical Guidance.  _Chem. Phys. Rev._ **2025**, _6_, 021304.
+- **Knepp, Z. J.**; Repa, G. M.; Fredin, L. A. Excited-state methods for molecular systems: Performance, pitfalls, and practical guidance.  _Chem. Phys. Rev._ **2025**, _6_, 021304.
 - Chen, A. H.; **Knepp, Z. J.**; Guzman, C. A.; Young, E. R.; Fredin, L. A. Intramolecular Subtleties in Indole Azo Dyes Revealed by Multidimensional Potential Energy Surfaces. _Phys. Chem. Chem. Phys._ **2025**, _27_, 6430-6437
 
 ### 2024
