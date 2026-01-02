@@ -41,4 +41,4 @@ Alfred Computer Science Major 29'
 ---
 ## Openings
 ---
-Interested in joining the group? Contact Dr. Knepp using the email link at the bottom of the webpage.
+Interested in joining the group? We are actively recruiting undergraduate researchers to work on computational chemistry and materials projects. If you’re interested, feel free to reach out via the email link at the bottom of the page.
