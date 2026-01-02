@@ -2,7 +2,7 @@
 title: "Computational Chemistry at Alfred University"
 layout: page
 ---
-The Knepp Lab investigates problems at the intersection of photochemistry, physical organic chemistry, and electronic structure theory. We are particularly interested in leveraging computational chemistry to rationally design molecular photoswitches for applications in photopharmaceuticals and molecular solar thermal fuels.
+The Knepp Lab investigates problems with electronic-structure theory and molecular dynamics. We use theory and simulation to understand how structure, dynamics, and external stimuli influence the properties of molecular and materials systems. Current projects include the rational design of molecular photoswitches, excited- and triplet-state dynamics, charge transport and thermal effects in glasses and crystalline materials, and interfacial behavior in functional coatings.
 
 <img src="hydrogen_orbital_transparent.png" 
         alt="Picture" 
