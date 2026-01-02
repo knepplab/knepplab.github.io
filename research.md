@@ -14,6 +14,9 @@ This project models the geometric and electronic structure of the photocatalytic
 ### Quasiharmonic Modeling of Thermal Expansion Effects in Thermoelectric and Organic Semiconductor Materials
 This project uses first-principles quasiharmonic calculations to study how thermal expansion affects electronic structure, charge transport, and thermoelectric performance in crystalline materials. Temperature-dependent lattice parameters obtained from the quasiharmonic approximation are used to explicitly account for structural effects on transport properties. The work targets both inorganic thermoelectrics and organic molecular crystals and relies on CRYSTAL23 for periodic DFT, phonon, and QHA calculations.
 
+### Ink Degredation
+This project investigates how ink degrades over time and under different environmental conditions. UV-Vis spectroscopy will be used to track changes in color concentration from paper samples, allowing comparisons across ink types, colors, and storage conditions. The goal is to develop a method for quantifying ink degradation, with potential applications in forensic authentication and timeline analysis.
+
 ---
 ## Molecular Projects
 ---
@@ -26,6 +29,3 @@ This project uses computer-aided approaches to optimize photoswitchable drugs by
 
 ### Triplet State Influence on Photoisomerization and Thermal Reversion
 This project investigates how the lowest triplet state influences photoisomerization and thermal reversion in homonuclear and heteronuclear double-bond photoswitches (C=C, N=N, C=N, C=P, etc.). High-level electronic-structure methods and NA-TST (when relevant) are used to determine when triplet-mediated pathways compete with ground-state mechanisms across these systems.
-
-### Ink Degredation
-This project investigates how ink degrades over time and under different environmental conditions. UV-Vis spectroscopy will be used to track changes in color concentration from paper samples, allowing comparisons across ink types, colors, and storage conditions. The goal is to develop a method for quantifying ink degradation, with potential applications in forensic authentication and timeline analysis.
