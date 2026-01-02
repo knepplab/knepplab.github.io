@@ -1,13 +1,15 @@
 ---
-title: "High-Performance Computing"
+title: ""
 layout: page
 ---
+---
+## HPC
+---
+### Thelio Major
+Custom System76 workstation with a 64-core (128-thread) AMD Ryzen Threadripper 7980X CPU, 8 GB AMD Radeon RX 7600 GPU, 256 GB DDR5 RAM, and 12 TB of high-speed SSD storage (4 TB system + 8 TB data).
 
 ### NSF ACCESS (200,000 credits)
 ACCESS is a program established and funded by the U.S. National Science Foundation to help researchers and educators, with or without supporting grants, to utilize the nation’s advanced computing systems and services.
-
-### Thelio Major
-Custom System76 workstation with a 64-core (128-thread) AMD Ryzen Threadripper 7980X CPU, 8 GB AMD Radeon RX 7600 GPU, 256 GB DDR5 RAM, and 12 TB of high-speed SSD storage (4 TB system + 8 TB data).
 
 ---
 ## Software
