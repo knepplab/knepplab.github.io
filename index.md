@@ -6,6 +6,6 @@ The Knepp Lab investigates problems at the intersection of photochemistry, physi
 
 <img src="new_logo.png" 
         alt="Picture" 
-        width="400" 
-        height="400" 
+        width="800" 
+        height="800" 
         style="display: block; margin: 0 auto" />
