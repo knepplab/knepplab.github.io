@@ -1,9 +1,9 @@
 ---
-title: "Courses"
+title: "Teaching"
 layout: page
 ---
 
-
+# Courses
 ---
 ## CHEM 340 - Physical Chemistry: Quantum Mechanics and Spectroscopy
 ---
