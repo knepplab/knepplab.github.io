@@ -6,6 +6,6 @@ The Knepp Lab investigates problems at the intersection of photochemistry, physi
 
 <img src="hydrogen_orbital_transparent.png" 
         alt="Picture" 
-        width="600" 
-        height="600" 
+        width="800" 
+        height="800" 
         style="display: block; margin: 0 auto" />
