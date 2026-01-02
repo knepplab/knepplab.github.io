@@ -4,6 +4,12 @@ layout: page
 ---
 
 ---
+## HPC
+---
+### NSF ACCESS (200,000 credits)
+ACCESS is a program established and funded by the U.S. National Science Foundation to help researchers and educators, with or without supporting grants, to utilize the nation’s advanced computing systems and services.
+
+---
 ## Hardware
 ---
 ### Thelio Major
@@ -20,6 +26,9 @@ Gaussian 16 is the most recent version in the Gaussian program series and offers
 
 ### ORCA
 ORCA is a versatile and widely used quantum chemistry software package developed by the group of Prof. Frank Neese. It is freely available for academic use.
+
+### CRYSTAL23
+The CRYSTAL package performs _ab initio_ calculations of the ground state energy, energy gradient, electronic wave function and properties of periodic systems.
 
 ### LAMMPS
 LAMMPS is a free classical molecular dynamics code for modeling molecules and materials.
