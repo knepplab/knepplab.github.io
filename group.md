@@ -16,9 +16,29 @@ Dr. Knepp is a computational chemist and assistant professor of chemistry at Alf
 ---
 ## Undergraduate Students
 ---
-This could be you! We are actively recruiting undergraduate researchers to work on computational and synthetic organic chemistry projects. If you're interested, feel free to reach out via the email link at the bottom of the page.
+
+### Katie Seamens
+Alfred Chemistry Major & Materials Science and Engineering Minor 28'
+
+### Isabel Benfield
+Alfred Chemistry Major & Physics Minor 26'
+
+### Mike Hallowell
+Alfred Engineering-Undecided 29'
+
+### Sydnie Tutmaher
+Alfred Chemistry Major & Mathematics Minor 26'
+
+### Johnson Jasson
+Alfred Electrical Engineering Major 29'
+
+### Holly Lyimo
+Alfred Mechanical Engineering Major 29'
+
+### Ashrafu Ally
+Alfred Computer Science Major 29'
 
 ---
-## Collaborators
+## Openings
 ---
-Interested in excited-state dynamics? We’re looking to collaborate with spectroscopists, especially those with expertise in transient absorption spectroscopy.
+Interested in joining the group? Contact Dr. Knepp using the email link at the bottom of the webpage.
