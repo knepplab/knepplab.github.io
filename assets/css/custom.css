@@ -8,6 +8,7 @@
 
 
 .site-logo {
-  height: 100px !important;  /* adjust */
-  width: auto !important;
+  width: 100px !important;
+  height: auto !important;  /* adjust */
+  
 }
