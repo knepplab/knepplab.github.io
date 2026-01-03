@@ -1,0 +1,10 @@
+.logo-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem !important;
+}
+
+.site-logo {
+  height: 80px !important;
+  width: auto;
+}
