@@ -1,11 +1,24 @@
-@font-face
-  font-family: 'PT Sans'
-  src: local('PT Sans'), local('PTSans-Regular'), url('../fonts/PTSans-Regular.woff') format('woff')
-  font-weight: normal
-  font-style: normal
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://spratt.github.io/Computer-Modern/cmunss.otf');
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://spratt.github.io/Computer-Modern/cmunsx.otf');
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://spratt.github.io/Computer-Modern/cmunsi.otf');
+    font-style: italic, oblique;
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://spratt.github.io/Computer-Modern/cmunbxo.otf');
+    font-weight: bold;
+    font-style: italic, oblique;
+  }
 
-@font-face
-  font-family: 'PT Sans'
-  src: local('PT Sans Bold'), local('PTSans-Bold'), url('../fonts/PTSans-Bold.woff') format('woff')
-  font-weight: bold
-  font-style: normal
+  body {
+    font-family: "Computer Modern", serif;
+  }
