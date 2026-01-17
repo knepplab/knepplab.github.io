@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Courses Taught"
 layout: page
 ---
 
@@ -37,11 +37,6 @@ Explores concepts in thermodynamics, kinetics, and quantum mechanics through six
 ## CHEM 342 - Physical Chemistry: Thermodynamics and Kinetics
 ---
 Foundations and applications of classical and statistical thermodynamics, chemical kinetics, and molecular dynamics.
-
----
-## CHEM 400 - Advanced Chemistry Topics: Computational Chemistry
----
-A hands-on introduction to modern computational chemistry. Students perform electronic structure calculations and molecular dynamics simulations to explore molecular structure, properties, and reactivity. The course emphasizes practical applications, result interpretation, and computational workflows. Topics include molecular mechanics (MM), Hartree-Fock (HF), density functional theory (DFT), post-HF methods, and molecular dynamics (MD). Prior physical chemistry knowledge is recommended but not required.
 
 ---
 ## CHEM 465 - Advanced Lab I
