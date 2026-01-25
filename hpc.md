@@ -6,7 +6,7 @@ layout: page
 ## High Performance Computing Resources
 ---
 
-<img src="https://knepplab.com/Silver_System76.jpg" alt="" width="200">
+<img src="https://knepplab.com/System76.jpg" alt="" width="200">
 
 Custom System76 workstation with a 64-core (128-thread) AMD Ryzen Threadripper 7980X CPU, 8 GB AMD Radeon RX 7600 GPU, 256 GB DDR5 RAM, and 12 TB of high-speed SSD storage (4 TB system + 8 TB data).
 
@@ -35,7 +35,7 @@ ORCA is a versatile and widely used quantum chemistry software package developed
 
 The CRYSTAL23 package performs _ab initio_ calculations of the ground state energy, energy gradient, electronic wave function and properties of periodic systems.
 
-<img src="https://knepplab.com/Quantum-ESPRESSO-logo.png" alt="" width="200">
+<img src="https://knepplab.com/QE-logo.png" alt="" width="200">
 
 Quantum ESPRESSO is an integrated suite of open-source computer codes for electronic-structure calculations and materials modeling at the nanoscale. It is based on density-functional theory, plane waves, and pseudopotentials.
 
