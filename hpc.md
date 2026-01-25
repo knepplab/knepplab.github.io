@@ -20,7 +20,7 @@ ACCESS is a program established and funded by the U.S. National Science Foundati
 ### WebMO
 WebMO provides a user-friendly web interface for running advanced computational chemistry software, making powerful tools accessible to students and non-specialists directly through their browser. Please see Prof. Knepp for login instructions.
 
-<img src="https://knepplab.com/Gaussian-logo.jpg" alt="" width="200">
+<img src="https://knepplab.com/Gaussian_logo.jpg" alt="" width="200">
 
 ### Gaussian 16
 Gaussian 16 is the most recent version in the Gaussian program series and offers advanced capabilities for electronic structure modeling.
