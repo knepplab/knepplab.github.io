@@ -14,6 +14,9 @@ ACCESS is a program established and funded by the U.S. National Science Foundati
 ---
 ## Software
 ---
+
+<img src="https://knepplab.com/WebMO-logo.jpeg" alt="" width="200">
+
 ### WebMO
 WebMO provides a user-friendly web interface for running advanced computational chemistry software, making powerful tools accessible to students and non-specialists directly through their browser. Please see Prof. Knepp for login instructions.
 
