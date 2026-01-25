@@ -25,6 +25,8 @@ WebMO provides a user-friendly web interface for running advanced computational 
 ### Gaussian 16
 Gaussian 16 is the most recent version in the Gaussian program series and offers advanced capabilities for electronic structure modeling.
 
+<img src="https://knepplab.com/Orca-logo.png" alt="" width="200">
+
 ### ORCA
 ORCA is a versatile and widely used quantum chemistry software package developed by the group of Prof. Frank Neese. It is freely available for academic use.
 
