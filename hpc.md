@@ -35,5 +35,7 @@ ORCA is a versatile and widely used quantum chemistry software package developed
 ### CRYSTAL23
 The CRYSTAL package performs _ab initio_ calculations of the ground state energy, energy gradient, electronic wave function and properties of periodic systems.
 
+<img src="https://knepplab.com/lammps-logo.png" alt="" width="200">
+
 ### LAMMPS
 LAMMPS is a free classical molecular dynamics code for modeling molecules and materials.
