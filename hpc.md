@@ -31,7 +31,7 @@ ORCA is a versatile and widely used quantum chemistry software package developed
 
 The CRYSTAL23 package performs _ab initio_ calculations of the ground state energy, energy gradient, electronic wave function and properties of periodic systems.
 
-<img src="https://knepplab.com/CRYSTAL23-logo.png" alt="" width="200">
+<img src="https://knepplab.com/Quantum-ESPRESSO-logo.png" alt="" width="200">
 
 Quantum ESPRESSO is an integrated suite of open-source computer codes for electronic-structure calculations and materials modeling at the nanoscale. It is based on density-functional theory, plane waves, and pseudopotentials.
 
