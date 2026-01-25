@@ -41,7 +41,9 @@ Alfred Mechanical Engineering Major 29'
 Holly is an international student from Tanzania at Alfred University who is deeply curious about how people, systems, and ideas grow, especially in environments where learning happens through collaboration and experimentation. She values inclusive spaces, meaningful mentorship, and opportunities that challenge her to think beyond what she already knows. She is interested in research that connects materials, engineering, and design with real-world impact. She is especially drawn to interdisciplinary work, sustainability, and projects that consider both technical innovation and human experience.
 
 ### Ashrafu Ally
-Alfred Computer Science Major 29'
+Alfred Materials Science & Engineering and Computer Science Double Major 29'
+
+Ashrafu is an international student from Singida, Tanzania. His academic interests center on research at the intersection of computation and materials, particularly using computer modeling and simulation to study glass materials and the behavior of glass surfaces.
 
 ---
 ## Former Undergraduate Group Members
