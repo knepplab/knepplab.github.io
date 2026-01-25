@@ -31,15 +31,14 @@ Alfred Chemistry Major & Mathematics Minor 26'
 ### Johnson Jasson
 Alfred Electrical Engineering Major 29'
 
-
-Johnson investigates organic semiconductors by examining how temperature (T) influences electronic coupling (V) using the quasi-harmonic approximation (QHA), with the goal of understanding their potential applications in electronic devices.
+Johnson is an international student from Tanzania currently studying at Alfred University, where his academic interests lie at the intersection of engineering and research. His interests span engineering, technology, and business, with a strong focus on semiconductor science. He leverages scientific inquiry that drives a deeper understanding of underlying mechanisms, focusing not just on outcomes, but on the fundamental why behind phenomena. He values collaboration, continuous growth, and systematic problem-solving. His research investigates organic semiconductors by examining how temperature (T) influences electronic coupling (V) using the quasi-harmonic approximation (QHA), with the goal of understanding their potential applications in electronic devices.
 
 <img src="https://knepplab.com/holly.jpeg" alt="" width="200">
 
 ### Holly Lyimo
 Alfred Mechanical Engineering Major 29'
 
-Holly is an international student (from Tanzania) at Alfred University who is deeply curious about how people, systems, and ideas grow, especially in environments where learning happens through collaboration and experimentation. She values inclusive spaces, meaningful mentorship, and opportunities that challenge her to think beyond what she already knows. She is interested in research that connects materials, engineering, and design with real-world impact. She is especially drawn to interdisciplinary work, sustainability, and projects that consider both technical innovation and human experience.
+Holly is an international student from Tanzania at Alfred University who is deeply curious about how people, systems, and ideas grow, especially in environments where learning happens through collaboration and experimentation. She values inclusive spaces, meaningful mentorship, and opportunities that challenge her to think beyond what she already knows. She is interested in research that connects materials, engineering, and design with real-world impact. She is especially drawn to interdisciplinary work, sustainability, and projects that consider both technical innovation and human experience.
 
 ### Ashrafu Ally
 Alfred Computer Science Major 29'
