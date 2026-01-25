@@ -30,6 +30,8 @@ Gaussian 16 is the most recent version in the Gaussian program series and offers
 ### ORCA
 ORCA is a versatile and widely used quantum chemistry software package developed by the group of Prof. Frank Neese. It is freely available for academic use.
 
+<img src="https://knepplab.com/CRYSTAL23-logo.png" alt="" width="200">
+
 ### CRYSTAL23
 The CRYSTAL package performs _ab initio_ calculations of the ground state energy, energy gradient, electronic wave function and properties of periodic systems.
 
