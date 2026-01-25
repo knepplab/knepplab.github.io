@@ -17,25 +17,20 @@ ACCESS is a program established and funded by the U.S. National Science Foundati
 
 <img src="https://knepplab.com/WebMO-logo.png" alt="" width="200">
 
-### WebMO
 WebMO provides a user-friendly web interface for running advanced computational chemistry software, making powerful tools accessible to students and non-specialists directly through their browser. Please see Prof. Knepp for login instructions.
 
 <img src="https://knepplab.com/Gaussian_logo.jpg" alt="" width="200">
 
-### Gaussian 16
 Gaussian 16 is the most recent version in the Gaussian program series and offers advanced capabilities for electronic structure modeling.
 
 <img src="https://knepplab.com/Orca-logo.png" alt="" width="200">
 
-### ORCA
 ORCA is a versatile and widely used quantum chemistry software package developed by the group of Prof. Frank Neese. It is freely available for academic use.
 
 <img src="https://knepplab.com/CRYSTAL23-logo.png" alt="" width="200">
 
-### CRYSTAL23
-The CRYSTAL package performs _ab initio_ calculations of the ground state energy, energy gradient, electronic wave function and properties of periodic systems.
+The CRYSTAL23 package performs _ab initio_ calculations of the ground state energy, energy gradient, electronic wave function and properties of periodic systems.
 
 <img src="https://knepplab.com/lammps-logo.png" alt="" width="200">
 
-### LAMMPS
 LAMMPS is a free classical molecular dynamics code for modeling molecules and materials.
