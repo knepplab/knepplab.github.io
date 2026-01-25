@@ -26,8 +26,13 @@ Alfred Chemistry Major & Physics Minor 26'
 ### Sydnie Tutmaher
 Alfred Chemistry Major & Mathematics Minor 26'
 
+<img src="https://knepplab.com/johnson.jpeg" alt="" width="200">
+
 ### Johnson Jasson
 Alfred Electrical Engineering Major 29'
+
+
+Johnson investigates organic semiconductors by examining how temperature (T) influences electronic coupling (V) using the quasi-harmonic approximation (QHA), with the goal of understanding their potential applications in electronic devices.
 
 <img src="https://knepplab.com/holly.jpeg" alt="" width="200">
 
