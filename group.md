@@ -24,7 +24,7 @@ Alfred Chemistry Major & Materials Science and Engineering Minor 28'
 
 Katie is a student at Alfred University whose academic focus spans chemistry, materials science, and astronomy. She is particularly drawn to understanding materials at the atomic level through computational modeling. Her current research involves modeling glassy materials to investigate conductivity relevant to solid-state battery applications. Looking ahead, she plans to pursue computational work in astrochemistry, with an emphasis on molecular formation, destruction, and interactions in space within interstellar clouds, stars, and planetary atmospheres, and on linking these fundamental processes to real-world material and chemical design. Outside of academics, her extracurricular activities include lampworking, hiking, stargazing, reading, and drawing.
 
-<img src="https://knepplab.com/isabel.jpeg" alt="" width="200">
+<img src="https://knepplab.com/isabel.jpg" alt="" width="200">
 
 ### Isabel Benfield
 Alfred Chemistry Major & Physics Minor 26'
