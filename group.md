@@ -17,7 +17,7 @@ Dr. Knepp is a computational chemist and assistant professor of chemistry at Alf
 ## Current Undergraduate Group Members
 ---
 
-<img src="https://knepplab.com/katie.jpeg" alt="" width="200">
+<img src="https://knepplab.com/katie.jpg" alt="" width="200">
 
 ### Katie Seamens
 Alfred Chemistry Major & Materials Science and Engineering Minor 28'
