@@ -34,6 +34,8 @@ Isabel is a student at Alfred University hailing from Bloomsburg, Pennsylvania, 
 ### Sydnie Tutmaher
 Alfred Chemistry Major & Mathematics Minor 26'
 
+Sydnie is a student at Alfred University from Mayville, New York, with academic interests in chemistry and forensic science. She values the strong sense of community within the chemistry department and the opportunity to expand her lampworking interests through an independent study, during which she built a lampworking bench. Her current research focuses on developing a technique to determine whether ink degradation over time can be detected using UV–Vis spectroscopy. The goal of this work is to establish a reliable method for extracting ink from paper and comparing it to fresh samples in order to estimate the age of an ink sample.
+
 <img src="https://knepplab.com/johnson.jpeg" alt="" width="200">
 
 ### Johnson Jasson
